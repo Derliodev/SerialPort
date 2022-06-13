@@ -1,0 +1,25 @@
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.exe.config
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.exe
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.pdb
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.AssemblyReference.cache
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.Form1.resources
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.Properties.Resources.resources
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.GenerateResource.cache
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.exe
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.pdb
+C:\Users\gpafu\source\repos\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.SuggestedBindingRedirects.cache
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.exe.config
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.exe
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.pdb
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csprojAssemblyReference.cache
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.Form1.resources
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.Properties.Resources.resources
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.GenerateResource.cache
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.csproj.CoreCompileInputs.cache
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.exe
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.pdb
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.exe.manifest
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\bin\Debug\Project_SerialPort.application
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.exe.manifest
+C:\Users\MacRemoto\Desktop\Archivos Complementarios NUEVOS\Project_SerialPort\Project_SerialPort\obj\Debug\Project_SerialPort.application
